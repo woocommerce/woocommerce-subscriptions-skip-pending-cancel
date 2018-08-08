@@ -45,3 +45,4 @@ if ( false === PP_Dependencies::is_subscriptions_active( '2.1' ) ) {
 	return;
 }
 
+add_filter( 'woocommerce_subscription_use_pending_cancel', '__return_false' );
