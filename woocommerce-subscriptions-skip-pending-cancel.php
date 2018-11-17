@@ -8,7 +8,8 @@
  * License: GPLv3
  * Version: 1.0.0
  * Requires at least: 4.0
- * Tested up to: 4.8
+ * Tested up to: 5.0.0
+ * WC tested up to: 3.5.1
  *
  * GitHub Plugin URI: Prospress/woocommerce-subscriptions-skip-pending-cancel
  * GitHub Branch: master
